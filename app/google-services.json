@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895955100139",
+    "project_id": "logintutorial-ad7c4",
+    "storage_bucket": "logintutorial-ad7c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895955100139:android:d94111708d6ac71ac679ae",
+        "android_client_info": {
+          "package_name": "mx.edu.delasalle.mvvmlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895955100139-jsoh7vdevs4l1h6rhgap3fa3d1sp117i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3-QmBSIehrupRhKfn7OQuNrij6vVJv-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895955100139-jsoh7vdevs4l1h6rhgap3fa3d1sp117i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
